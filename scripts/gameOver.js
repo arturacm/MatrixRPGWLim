@@ -1,7 +1,7 @@
 
 //função que redireciona a pagina para a página pillchoice.html que vai para o endgame
 function gameOver() {
-    setTimeout('pillChoice()', 100);
+    //setTimeout('pillChoice()', 100);
     return window.location.assign("./pillChoice.html");
    
 }
