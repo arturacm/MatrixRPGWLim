@@ -44,7 +44,7 @@ function pillChoice() {
 
 //Resetando o jogo para o começo. Mudando os valores das variaveis alteradas para o seu estado inicial.
 function reset() {
-    alert("Volte  para a sua vida de ilusão e durma.\n\n GAME O")
+    alert("Volte  para a sua vida de ilusão e durma.\n\n GAME OVER")
     myText = `<h2>Já teve aquela sensação que não sabe se está acordado ou dormindo? Se você está aqui deve estar procurando por respostas. Primeiro, quem é você?</h2>`;
     myArray = myText.split("");
     fase = 0;
