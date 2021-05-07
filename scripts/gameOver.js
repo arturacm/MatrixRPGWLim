@@ -33,7 +33,7 @@ function pillChoice() {
             
             <main>
             <h1>Parabéns, você acordou para a realidade</h1>
-            <iframe width="100%" height="200px" src="https://www.youtube.com/embed/7sZIkeFeuOc?autoplay=1&controls=0&amp;start=84" title="YouTube video player" frameborder="0"></iframe>
+            <iframe width="100%" height="200px" src="https://www.youtube.com/embed/NpyaKWY9HOc?start=113" title="YouTube video player" frameborder="0"></iframe>
             <a background= "black" onclick="reset()">Clique aqui para jogar novamente<\a>
             </main>
         </body>
